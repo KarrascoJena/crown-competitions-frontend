@@ -7,7 +7,7 @@ import {
 export const environment = {
   production: true,
   server: {
-    BASE_URL: 'http://localhost',
+    BASE_URL: 'https://crown-backend.herokuapp.com/',
     API_VERSION: 'api'
   },
   STRIPE_PUB_KEY: 'pk_live_UsJI3Ts8tB4WW1F6IfvFQrm900Q1b4PtAp',
