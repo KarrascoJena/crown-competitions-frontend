@@ -19,7 +19,7 @@ export const environment = {
     {
       id: GoogleLoginProvider.PROVIDER_ID,
       provider: new GoogleLoginProvider(
-        '457048883074-2k0unm1ah7bm363s1r82fhb0ode4jobn.apps.googleusercontent.com'
+        'aF5W3aS-ancuEu-x7qgHuVy7'
       )
     },
     {
